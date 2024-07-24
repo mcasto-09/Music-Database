@@ -17,8 +17,8 @@ function App() {
       <div className='font-display text-center pt-72 text-4xl pb-4'>
         <h1>The Music Database </h1>
       </div> 
-      <div className="font-display text-center text-xl border-solid border-2 w-20rem" > //use 20~rem
-        <input type="text" placeholder="search for something good" name="search"></input>
+      <div className="flex justify-center font-display text-center text-lg border-solid border-2 w-[25rem] mx-auto" > 
+        <input className="w-full" type="text" placeholder="search" name="search"></input>
     </div>
     </div>
   );
