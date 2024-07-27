@@ -4,11 +4,11 @@ import ReactDOM from "react-dom/client";
 // import {Route, RouterProvider, createBrowserRouter, createRoutesFromElements} from 'react-router-dom';
 import App from "./App";
 
-const router = createBrowserRouter(
-  createRoutesFromElements(
-    <Route path='/'></Route>
-  )
-)
+// const router = createBrowserRouter(
+//   createRoutesFromElements(
+//     <Route path='/'></Route>
+//   )
+// )
 
 
 
